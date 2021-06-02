@@ -1,0 +1,22 @@
+body{
+  text-align:center;
+  background: linear-gradient(#64B5F6 0%, #D500F9 100%);
+  background-repeat:no-repeat;
+}
+h1{
+  text-shadow:2px 2px #F48FB1;
+  font-size: 20px;
+    font-family: Comic Sans MS
+}
+img{
+  border-radius:50%;
+  width:30%;
+}
+.link {
+    color: turquoise;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: monospace;
+    font-size: 20px;
+    display: inline;
+}
